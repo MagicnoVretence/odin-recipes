@@ -1,1 +1,1 @@
-ponavljanje gradiva
+the odin project recipe assignment
